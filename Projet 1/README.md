@@ -6,5 +6,5 @@
 <br />
 <br />-Le fichier csv seulement bon via libreoffice calc. Ne fonctionne pas via excel, notepad(pour ma part) et convertisseur internet. J'ai mis beaucoup de temps avant de m'en rendre compte.
 <br />-J'étais malade et donc absent la semaine du cours en décembre et je n'ai pas reçu la notification du travail à faire. Je me suis mis au courant uniquement depuis le 03/01/2023 du travail à effectuer.
-<br />- Dans mes résultats, j'ai remarqué que les émojis avaient du mal à être affichés, j'ai donc décidé de laisser afficher les probabilités d'un oui ou d'un non.
+<br />- Dans mes résultats, j'ai remarqué que les émojis avaient du mal à être affichés, j'ai donc décidé de laisser affiché les probabilités d'un oui ou d'un non.
 <br />- Le câble se déconnecte souvent, je pense qu'il a un léger problème.
